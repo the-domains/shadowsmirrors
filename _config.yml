@@ -1,7 +1,7 @@
 name: shadowsmirrors
 favicon: null
-layout_spectrum: 0.15436002030037344
-typography_spectrum: 0.5822276030667126
+layout_spectrum: 0.17669
+typography_spectrum: 0.61656
 title: 'Shadows & Mirrors | Darkwave Electronic Music For The Underground'
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#000200'
+    - '#fdfffd'
+    - '#898379'
+    - '#232320'
+    - '#686258'
   brandStrength: 0.8459528111852705
   lightness: 0.1567119644023478
   saturation: 0.756847174372524
