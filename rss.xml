@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Shadows & Mirrors | Darkwave Electronic Music For The Underground]]></title>
         <description><![CDATA[Shadows & Mirrors | Darkwave Electronic Music For The Underground]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/shadowsmirrors/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 18:48:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 09 Apr 2016 12:26:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/shadowsmirrors/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Shadows & Mirrors is a darkwave electronic band from Rockford, Illinois. We are currently signed to Nub Country Records (UK) and WEATNU (US). "In The Dark" our first music video was accepted by MTV for VMA consideration in the 2016 Rock category, and the second single "Last Ride" was #1 in the UK on TBMF, the largest Independent radio station in the country. Our goal is to be one of the best darkwave industrial bands in the world by combining classic electronic goth and new synthwave styles. Without our fans this music would fall on deaf ears, so for listening and sharing, I thank you.</p>]]></description>
-            <link>undefined38606c19-42f2-4ab5-8622-bbf3faae3fd2/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ef6ab15-cf1c-4490-b26d-a0ed4b8e8e5a.png">]]></description>
+            <link>https://thegrid.ai/shadowsmirrors/38606c19-42f2-4ab5-8622-bbf3faae3fd2/index.html</link>
             <guid isPermaLink="false">38606c19-42f2-4ab5-8622-bbf3faae3fd2</guid>
-            <pubDate>Fri, 04 Mar 2016 18:47:19 GMT</pubDate>
+            <pubDate>Sat, 09 Apr 2016 12:26:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
